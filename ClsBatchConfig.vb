@@ -58,9 +58,7 @@ Public Class ClsBatchConfig
 
             'oDBs_Head.SetValue("Code", oDBs_Head.Offset, objMain.objUtilities.getMaxCode("@VSPBCONF"))
             oDBs_Head.SetValue("DocNum", oDBs_Head.Offset, objMain.objUtilities.GetNextDocNum(objForm, "VSPOBCONFI"))
-
             objmatrix = objForm.Items.Item("5").Specific
-
             Me.SetNewLine(objForm.UniqueID)
 
             objForm.Freeze(False)
