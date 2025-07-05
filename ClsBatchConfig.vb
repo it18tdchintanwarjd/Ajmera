@@ -2,7 +2,6 @@
 Public Class ClsBatchConfig
 
 #Region "        Declaration        "
-
     Dim objForm As SAPbouiCOM.Form
     Dim objForm1 As SAPbouiCOM.Form
     Dim objGrid As SAPbouiCOM.Grid
