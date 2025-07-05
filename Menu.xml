@@ -1,0 +1,21 @@
+<Application>
+  <Menus>
+    <action type="add">
+      <!--<Menu UniqueID="VSP_FLT_SETUP" Type="2" String="SISCOL" Position="0" FatherUID="43535" Enabled="1" Checked="0">-->
+      <!--<Menu UniqueID="Manufatur_Master" Type="1" String="Manufaturer Master" Position="0" FatherUID="43545" Enabled="1" Checked="0">-->
+      <Menu UniqueID="TEST_VSPBROWSE" Type="1" String="Browse Button" Position="0" FatherUID="43545" Enabled="1" Checked="0">
+      <!--<Menu UniqueID="Week_Ending" Type="1" String="Week Ending" Position="0" FatherUID="43545" Enabled="1" Checked="0">
+      <Menu UniqueID="Test_VSP" Type="2" String="Types" Position="21" FatherUID="43545" Enabled="1" Checked="0">
+        
+          <action type="add">
+            <Menu UniqueID="VSP_OPT_DDCS" Type="1" String="Drop Down" Position="1" FatherUID="Test_VSP" Enabled="1" Checked="0"/>
+            <Menu UniqueID="Test_VSPSALES" Type="1" String="SaleT" Position="2" FatherUID="Test_VSP" Enabled="1" Checked="0"/>
+            <Menu UniqueID="Test_VSPLISTOFG3" Type="1" String="List Of G3 Cat" Position="3" FatherUID="Test_VSP" Enabled="1" Checked="0"/>
+            
+
+          </action>
+        </Menus>-->
+      </Menu>
+    </action>
+  </Menus>
+</Application>
